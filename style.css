@@ -168,6 +168,47 @@ main section{
     margin-bottom: 130px;
 }
 
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+
+.exprience-description{
+    color: rgba(117, 117, 117, 1.00);
+}
+
+.cvn{
+    margin: 5px 50%;
+    font-size: 10px;
+}
+
+footer{
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+
+.footer-column{
+    width: 50%;
+}
+
+.placeholder-name{
+    height: 64px;
+    width: 461px;
+    margin: 24px;
+    border-radius: 5px;
+}
+
+#raja{
+    height: 180px;
+    width: 461px;
+    margin: 24px;
+}
+
+#cool{
+    margin:0 24px;
+}
+
 
 
 
